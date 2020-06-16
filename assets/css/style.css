@@ -4790,3 +4790,11 @@ p {
   margin-bottom: -7px; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* #Fun Facts
+================================================================================= */
+.fun-facts{background:#f2f5f8; padding:50px; margin-top:20px; color:#fff;}
+.fun-facts i{color:#e84444 ; margin-bottom:15px; margin-right:0;}
+.fun-facts i:hover{color:#e84444 ;}
+.fun-facts p{font-weight:bold;}
+p.number{font-style:italic;}
